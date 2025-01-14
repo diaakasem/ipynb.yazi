@@ -24,7 +24,7 @@ cargo install mdcat
 1. Ensure you place the plugin in `~/.config/yazi/plugins/` directory
 
 ```bash
-git clone https://github.com/diaakasem/ipynb.yazi.git ~/.config/yazi/plugins/ipynb.yazi
+git clone https://github.com/diaakasem/ipynb.yazi ~/.config/yazi/plugins/ipynb.yazi
 ```
 
 1. Add the following to your Yazi config file (`~/.config/yazi/yaiz.toml`):
